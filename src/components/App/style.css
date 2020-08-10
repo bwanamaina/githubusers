@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+htnl,
+body {
+  height: 100vh;
+}
+
+.wrapper {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.wrapper-body-text {
+  text-align: center;
+  width: 60%;
+}
