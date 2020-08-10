@@ -15,7 +15,7 @@ const Search: React.FC<ISearch> = ({ searchQuery }) => {
     <div className='search'>
       <input
         type='text'
-        placeholder='Search github user'
+        placeholder='Search github user by username'
         value={searchText}
         onChange={(e) => {
           const { value } = e.target;

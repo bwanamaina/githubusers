@@ -15,3 +15,13 @@ yarn install
 # Run app
 yarn start
 ```
+
+```
+# Run unit tests
+yarn test
+```
+
+```
+# Run integration test
+yarn cypress
+```
